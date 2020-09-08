@@ -2,7 +2,7 @@
     Author: Daniel Perdomo
     Date: 7 September 2020
     Comments: This C# console application code demonstrates the use of
-              iterative statements after getting input users.
+              iterative statements after getting user input.
 */
  
 using System;
@@ -30,7 +30,7 @@ namespace TechProject2a
 
                 /*
                     This conditinal if/else statement is used to test the values of user input. 
-                    Iterative statement will execute depeinding on the value of user input.
+                    Iterative statement will execute depending on the value of user input.
                 */
                 // Execute a for loop if the value of user input is between 1 and 25.
                 if ((value_of_input > 0) && (value_of_input <= 25))
